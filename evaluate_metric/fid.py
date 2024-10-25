@@ -48,7 +48,7 @@ except ImportError:
     def tqdm(x):
         return x
 
-from tool.inception import InceptionV3
+from evaluate_metric.inception import InceptionV3
 
 IMAGE_EXTENSIONS = {'bmp', 'jpg', 'jpeg', 'pgm', 'png', 'ppm',
                     'tif', 'tiff', 'webp'}
