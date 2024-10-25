@@ -109,13 +109,14 @@ def main():
             model, fake_image,  # style template reverse path
             clip_denoised=True,
             device=dist_util.dev(),
-            model_kwargs=extra  # condition sample : reverse path  image to noise.
-        )
+            model_kwargs=None  # condition sample : reverse path  image to noise.  choice:{None,extra,model_kwargs}
+        ) # For MAS condition choose None(style path) extra(struct path) for paper setting, under alpha=0.05 (to get a better performance in style)
+        # For HE2PAS We choose extra(style path) extra(struct path) for paper setting, under alpha=0.55(to get a balance performance)
         _,latents_source = diffusion.ddim_reverse_sample_loop(
             model, sample, #  structual template reverse path
             clip_denoised=True,
             device=dist_util.dev(),
-            model_kwargs=model_kwargs  # condition sample: forward path  noise to image 
+            model_kwargs=extra  # condition sample: forward path  noise to image choice:{None,extra,model_kwargs}
         )
         # ---- key componet ----
         null_visual_prompt=diffusion.stainpromptInversion(model,noise,latents,latents_source,50,alpha=alpha,clip_denoised=True,device=dist_util.dev(),model_kwargs=model_kwargs)
