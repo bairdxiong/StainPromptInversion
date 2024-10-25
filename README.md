@@ -97,9 +97,9 @@ python eval.py -source_path  xxx/source_imge  --translate_path  xxx/results  --s
 ```
 
 # Disscussion📰
-```text
+
 We tested the effect of modifying the sampling condition variables on the results, and in most cases, selecting the condition corresponding to HE during the forward process of inputting HE images and transferring the staining to the target domain showed better results. However, under some parameters, consistently using the condition variables corresponding to HE showed better results. We look forward to implementing the visual stain prompt optimization strategy in this article in a faster way. If this repo is helpful to you, please star✨ and cite us! Thanks!
-```
+
 
 ## BibTex
 **If this repo is helpful to you, please cite us.**
