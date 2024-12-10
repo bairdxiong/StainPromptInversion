@@ -10,7 +10,7 @@
 ![image](./assert/architecture_v4.png)
 
 ## 🤳 News:
-+ 🎊🎊Congratulations! Our paper is accepted by AAAI'25(oral)
++ 🎊🎊Congratulations! Our paper is accepted by AAAI'25
 
 ## 📑 Prepare for Dataset and Enviroment
 
