@@ -7,6 +7,8 @@
 1.ShenZhen Institue of Advanced Technology
 2.University of Chinese Academy of Sciences
 
+（Paper)[http://arxiv.org/abs/2412.11106]
+
 ![image](./assert/architecture_v4.png)
 
 ## 🤳 News:
