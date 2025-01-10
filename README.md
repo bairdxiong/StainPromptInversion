@@ -106,11 +106,19 @@ We tested the effect of modifying the sampling condition variables on the result
 
 ## BibTex
 **If this repo is helpful to you, please cite us.**
-```text
-@misc{ anonymous2024unpaired, title={Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion}, author={Anonymous}, year={2024}, url={https://openreview.net/forum?id=sgUd6Lb59G} }
 
-```
+@misc{xiong2024unpairedmultidomainhistopathologyvirtual,
+      title={Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion}, 
+      author={Bing Xiong and Yue Peng and RanRan Zhang and Fuqiang Chen and JiaYe He and Wenjian Qin},
+      year={2024},
+      eprint={2412.11106},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2412.11106}, 
+}
 
 ## Acknowledgement
+**This work was supported in part by the Ministry of Science and Technology’s key research and development program (2023YFF0723400), Shenzhen-Hong Kong Joint Lab
+on Intelligence Computational Analysis for Tumor lmaging (E3G111), and the Youth Innovation Promotion Association CAS (2022365).**
 
 **This repo is built upon [improved diffusion](https://github.com/openai/improved-diffusion) and [guided diffusion](https://github.com/openai/guided-diffusion), dataset [ANHIR](https://anhir.grand-challenge.org/) . Thanks for their amazing work and contribution !**
