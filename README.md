@@ -12,6 +12,7 @@
 ![image](./assert/architecture_v4.png)
 
 ## 🤳 News:
+If you are confused about our work or code, feel free to contact me b.xiong@siat.ac.cn
 + 🎊🎊Congratulations! Our paper is accepted by AAAI'25
 
 ## 📑 Prepare for Dataset and Enviroment
