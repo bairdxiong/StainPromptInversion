@@ -13,6 +13,7 @@
 
 ## 🤳 News:
 If you are confused about our work or code, feel free to contact me b.xiong@siat.ac.cn
++ 🔥 We have released the full dataset predict result of our paper for evaluation. 
 + 🎊🎊Congratulations! Our paper is accepted by AAAI'25
 
 ## 📑 Prepare for Dataset and Enviroment
@@ -51,6 +52,15 @@ https://pan.baidu.com/s/15CSVbS0pSYwvnmNyCTknuA?pwd=mtqu 提取码: mtqu
 2.GoolgeDriven
 ```code
 https://drive.google.com/drive/folders/1lpbfL9xZmIHoVwql5PTYD4eJztGMV6Po?usp=drive_link
+```
+### 4. Results in this paper
+1.GoolgeDriven
+```code
+https://drive.google.com/file/d/1VqA-djwq0xkjm_U77OLW1vCnzyZb2Tot/view?usp=sharing
+```
+2.BaiduNetDiskDownload:
+```code
+
 ```
 
 # Training Your own model
