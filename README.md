@@ -60,7 +60,8 @@ https://drive.google.com/file/d/1VqA-djwq0xkjm_U77OLW1vCnzyZb2Tot/view?usp=shari
 ```
 2.BaiduNetDiskDownload:
 ```code
-
+链接: https://pan.baidu.com/s/1OkZdqUXuwv8KkzUCEw7ztg?pwd=b8f5 提取码: b8f5 
+--来自百度网盘超级会员v6的分享
 ```
 
 # Training Your own model
