@@ -26,6 +26,8 @@ conda activate nvpdiff
 ```
 
 ### 2. Download Processed Dataset
+Noted：val folder is for test, but we only use H&E folder. other stain type is only use for calculate FID.
+Thanks to ZhangYi noted that!
 
 1. BaiduNetDiskDownload: 
 ```code
