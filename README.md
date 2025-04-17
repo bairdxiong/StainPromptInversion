@@ -120,15 +120,7 @@ We tested the effect of modifying the sampling condition variables on the result
 ## BibTex
 **If this repo is helpful to you, please cite us.**
 
-@misc{xiong2024unpairedmultidomainhistopathologyvirtual,
-      title={Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion}, 
-      author={Bing Xiong and Yue Peng and RanRan Zhang and Fuqiang Chen and JiaYe He and Wenjian Qin},
-      year={2024},
-      eprint={2412.11106},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2412.11106}, 
-}
+Xiong, B., Peng, Y., Zhang, R., Chen, F., He, J., & Qin, W. (2025). Unpaired Multi-Domain Histopathology Virtual Staining Using Dual Path Prompted Inversion. Proceedings of the AAAI Conference on Artificial Intelligence, 39(8), 8780-8787. https://doi.org/10.1609/aaai.v39i8.32949
 
 ## Acknowledgement
 **This work was supported in part by the Ministry of Science and Technology’s key research and development program (2023YFF0723400), Shenzhen-Hong Kong Joint Lab
